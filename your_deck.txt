@@ -1,0 +1,10 @@
+# This file is for creating a deck of your own.
+#
+# With this file, you can add(cards,
+# replace cards with new ones,
+# and/or remove cards.
+#
+# For more details on how to use this file, go to:
+# http://tsssfgame.wikia.com/wiki/Your deck.txt
+
+add_all
