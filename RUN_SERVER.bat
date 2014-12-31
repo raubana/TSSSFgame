@@ -1,4 +1,4 @@
 @echo on
 :start
-python.exe server.py
+server(a1).exe
 goto start
