@@ -1,4 +1,4 @@
 @echo on
 :start
-server(a1).exe
+server(a2).exe
 goto start
