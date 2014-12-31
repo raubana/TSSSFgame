@@ -1,2 +1,6 @@
 Seriously!
 Messing with these files is dangerous and can break your game!
+
+Well... actually, "reserved.txt" is one you can mess with, but
+I wouldn't recommend you do unless you're going to run a
+server of your own.
