@@ -1,0 +1,7 @@
+# This file is for setting reserved names for a server.
+#
+# You can set a name to be reserved, plus you can
+# assign a rank to that name.
+#
+# For more details on how to use this file, go to:
+# http://tsssfgame.wikia.com/wiki/reserved.txt
