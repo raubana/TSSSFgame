@@ -1,8 +1,3 @@
-AS OF 10/1/2014 at 1:23 PM (UTC - 05:00), THIS PROJECT HAS BEEN MOVED.
-ALL THAT REMAINS IS THE CONTENT AND LIBRARIES NEEDED TO RUN THE CARD EDITOR.
-
-================================================================
-
 butts
 
 Somethings to keep in mind - if my programs delete, mutate, or otherwise make some change
@@ -13,7 +8,17 @@ something that will obviously cause you more problems (like trying to edit a fil
 isn't a card with the card editor) and you SHOULD be fine, but there's still a small
 chance something else might go wrong. I'll try to make sure that won't happen, mkay?
 
+================================================================
 
+==== HOW TO USE THE APP ====
+
+Uh, crap. Um... I'd put all of the stuff here, but I don't currently have time, so here:
+http://www.reddit.com/r/shipficmatchmaking/comments/2r53av/i_created_a_standalone_application_for_playing/
+
+==== HOW TO USE THE SERVER ====
+
+Same idea, I'LL GET AROUND TO IT!!
+http://tsssfgame.blogspot.com/2014/12/happy-new-year-public-builds-are-now.html
 
 ==== SOMETHING WENT WRONG ====
 
