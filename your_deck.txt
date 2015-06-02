@@ -7,4 +7,4 @@
 # For more details on how to use this file, go to:
 # http://tsssfgame.wikia.com/wiki/Your deck.txt
 
-add_all
+add_all_default
